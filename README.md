@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/70868c54-1dbe-49d8-8879-081562811273)
+
+
+![image](https://github.com/user-attachments/assets/548b7821-5a04-4daf-8f45-f857bd8244cb)
 이 코드는 **Generative Adversarial Network (GAN)**을 구현한 예제입니다. GAN은 **Generator**와 **Discriminator**라는 두 신경망으로 구성되며, 서로 경쟁하면서 훈련됩니다. Generator는 가짜 이미지를 생성하고, Discriminator는 그 이미지가 실제 이미지인지 가짜 이미지인지를 판별합니다. 이 네트워크는 결국 Generator가 매우 사실적인 이미지를 생성할 수 있도록 학습합니다.
 
 ### 1. **라이브러리 임포트**
